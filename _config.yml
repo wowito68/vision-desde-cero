@@ -1,0 +1,17 @@
+title: Visión desde Cero
+description: Matemáticas, machine learning y deep learning para visión por computadora, paso a paso.
+theme: just-the-docs
+url: https://wowito68.github.io
+baseurl: /vision-desde-cero
+lang: es
+search_enabled: true
+color_scheme: light
+aux_links:
+  Portafolio de Guillermo: https://wowito68.github.io/
+  Repositorio: https://github.com/wowito68/vision-desde-cero
+exclude:
+  - notion
+  - scripts
+  - README.md
+  - Gemfile
+  - Gemfile.lock
