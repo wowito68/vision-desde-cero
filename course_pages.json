@@ -1,0 +1,56 @@
+[
+  {
+    "source": "notion/Visión desde Cero.md",
+    "target": "index.md",
+    "title": "Inicio",
+    "parent": null,
+    "order": 1,
+    "permalink": "/",
+    "notion_id": null
+  },
+  {
+    "source": "notion/01 Matemáticas/00 Programa de matemáticas.md",
+    "target": "matematicas/index.md",
+    "title": "01 · Matemáticas",
+    "parent": null,
+    "order": 2,
+    "permalink": "/matematicas/",
+    "notion_id": "3e6096eb432f815db569df47f492dc9f"
+  },
+  {
+    "source": "notion/01 Matemáticas/01 Números variables y funciones.md",
+    "target": "matematicas/01-numeros-variables-y-funciones.md",
+    "title": "01 · Números, variables y funciones",
+    "parent": "01 · Matemáticas",
+    "order": 1,
+    "permalink": "/matematicas/numeros-variables-y-funciones/",
+    "notion_id": "3e6096eb432f8198afc3dfbf9c12fe32"
+  },
+  {
+    "source": "notion/01 Matemáticas/02 Coordenadas y gráficas.md",
+    "target": "matematicas/02-coordenadas-y-graficas.md",
+    "title": "02 · Coordenadas y gráficas",
+    "parent": "01 · Matemáticas",
+    "order": 2,
+    "permalink": "/matematicas/coordenadas-y-graficas/",
+    "notion_id": "3e6096eb432f81bc9bacf59b8e446dcf"
+  },
+  {
+    "source": "notion/01 Matemáticas/03 Vectores y color RGB.md",
+    "target": "matematicas/03-vectores-y-color-rgb.md",
+    "title": "03 · Vectores y color RGB",
+    "parent": "01 · Matemáticas",
+    "order": 3,
+    "permalink": "/matematicas/vectores-y-color-rgb/",
+    "notion_id": "3e6096eb432f814d8ff8d03f39eaeeca"
+  },
+  {
+    "source": "notion/01 Matemáticas/04 Matrices e imágenes.md",
+    "target": "matematicas/04-matrices-e-imagenes.md",
+    "title": "04 · Matrices e imágenes",
+    "parent": "01 · Matemáticas",
+    "order": 4,
+    "permalink": "/matematicas/matrices-e-imagenes/",
+    "notion_id": "3e6096eb432f81bb854ad5843721bb35"
+  }
+]

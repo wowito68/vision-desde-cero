@@ -16,3 +16,4 @@ vendor/
 
 # Notion import archive; Markdown sources are tracked
 *.zip
+__pycache__/
