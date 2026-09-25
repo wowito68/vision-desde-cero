@@ -101,3 +101,15 @@ Más adelante usaremos NumPy para operar con imágenes completas. Con arreglos d
 ## 7. Lo que sigue
 
 En la próxima clase daremos una **posición** a cada intensidad. Con coordenadas `(fila, columna)` podremos explicar cómo se organiza una imagen y cómo representar sus valores en una gráfica. Esa idea será la base para hablar de matrices, filtros y detección de bordes.
+
+## Recursos para profundizar
+
+**Gratuitos**
+
+- [Khan Academy: introducción al álgebra](https://es.khanacademy.org/math/algebra-home) — repasa variables, expresiones y funciones; empieza por la unidad «Introducción al álgebra».
+- [OpenStax: funciones y notación](https://openstax.org/books/prec%C3%A1lculo-2ed/pages/1-1-funciones-y-notacion-de-funciones) y [dominio y rango](https://openstax.org/books/prec%C3%A1lculo-2ed/pages/1-2-dominio-y-rango) — secciones concretas de un libro abierto en español, con ejemplos y ejercicios.
+- [Pillow: modos y bandas de una imagen](https://pillow.readthedocs.io/en/stable/handbook/concepts.html) — referencia para comprobar por qué una imagen de modo `L` usa intensidades de 8 bits y qué cambia en otros modos (inglés).
+
+**Libro comercial opcional**
+
+- [Gonzalez y Woods, *Digital Image Processing*, 4.ª ed.](https://www.pearson.com/en-us/subject-catalog/p/Gonzalez-Digital-Image-Processing-4th-Edition/P200000003224/9780133356724) — texto de consulta avanzado; no hace falta comprarlo para realizar esta clase.
